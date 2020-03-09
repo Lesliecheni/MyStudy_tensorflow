@@ -1,4 +1,4 @@
-这将记录我从零开始学习tensorflow板块
+这将记录我从零开始学习` `tensorflow2.x` `板块
 ==
 
 ### 准备工作：安装tensorflow 
@@ -10,3 +10,10 @@
 出现一系列的 Requirement already satisfied:...
 随后进入python解释器，试着import tensorflow as tf， 如果没有报错，即安装成功！
 
+
+
+下面就进入每天的学习把！   
+
+#### day1: 读取fashion_mnist的数据
+* 首先介绍一下Fashion MNIST数据集,它是7万张灰度图像组成,可以分成10个类别.每个灰度图像都是28*28像素的图像.我们将使用其中的6万张进行训练网络,另外的1万张来评估准确率.
+* 他是为了后面的利用tensorflow进行该数据集的基本分类问题
