@@ -1,5 +1,7 @@
-# 这将记录我从零开始学习tensorflow板块
+这将记录我从零开始学习tensorflow板块
+==
 day1 ： 准备工作
+___
 
 首先：安装tensorflow 
 tensorflow 分为 cpu 版本 和 gpu版本
