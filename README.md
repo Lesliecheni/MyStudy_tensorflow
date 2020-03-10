@@ -20,6 +20,7 @@
 * 首先介绍一下Fashion MNIST数据集,它是7万张灰度图像组成,可以分成10个类别.每个灰度图像都是28*28像素的图像.我们将使用其中的6万张进行训练网络,另外的1万张来评估准确率.
 * 他是为了后面的利用tensorflow进行该数据集的基本分类问题来做准备
 
-#### **day2** : [读取fashion_mnist的数据集]
+
+#### **day2** : [对fashion_mnist建模并对其进行图像分类测试](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_2%E5%88%A9%E7%94%A8fashion_mnist%E6%95%B0%E6%8D%AE%E9%9B%86%E5%BB%BA%E6%A8%A1%E5%B9%B6%E5%AF%B9%E5%85%B6%E8%BF%9B%E8%A1%8C%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB "悬停显示")
 * 根据day1的数据，来建立预测模型，完成了第一个模型的建立。 并进行对测试集的准确率测试。 
 
