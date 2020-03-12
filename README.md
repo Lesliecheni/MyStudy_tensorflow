@@ -26,3 +26,8 @@
 
 #### **day3** : [对fashion_mnist数据集进行归一化处理](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_3fashion_mnist%E6%95%B0%E6%8D%AE%E5%BD%92%E4%B8%80%E5%8C%96%E5%A4%84%E7%90%86 "悬停显示")
 * 对fashion_mnist数据集进行归一化处理， 对归一化之后的数据集进行归一化建模， 对比和没有归一化数据建立的模型，  发现准确率有了一定程度的提升。所以，对于数据集进行归一化处理还是相当有必要的。
+
+#### **day4** : [回调函数的使用](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_4%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%BF%E7%94%A8 "悬停显示")
+* 建立之前的模型的时候，调用Keras.callbacksAPI里的方法(ModelCheckpoint, EarlyStopping , TensorBoard)
+* 还有其他的方法，可以参考中文文档 https://keras.io/zh/callbacks/#_1
+* 对于tensorboard 的调用， 可以见day4 里的三张截图， 打开步骤： 在callbacks所在的根目录下，进行cmd命令的调用，然后 输入tensorboard --logdir callbacks, 调用以后 输入（我这里） 
