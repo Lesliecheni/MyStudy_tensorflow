@@ -30,4 +30,4 @@
 #### **day4** : [回调函数的使用](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_4%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0%E7%9A%84%E4%BD%BF%E7%94%A8 "悬停显示")
 * 建立之前的模型的时候，调用Keras.callbacksAPI里的方法(ModelCheckpoint, EarlyStopping , TensorBoard)
 * 还有其他的方法，可以参考中文文档 https://keras.io/zh/callbacks/#_1
-* 对于tensorboard 的调用， 可以见day4 里的三张截图， 打开步骤： 在callbacks所在的根目录下，进行cmd命令的调用，然后 输入tensorboard --logdir callbacks, 调用以后 输入（我这里） 
+* 对于tensorboard 的调用， 可以见day4 里的三张截图， 打开步骤： 在callbacks所在的根目录下，进行cmd命令的调用，然后 输入tensorboard --logdir callbacks, 调用以后 输入（我这里）localhost:6006
