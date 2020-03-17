@@ -31,3 +31,7 @@
 * 建立之前的模型的时候，调用Keras.callbacksAPI里的方法(ModelCheckpoint, EarlyStopping , TensorBoard)
 * 还有其他的方法，可以参考中文文档 https://keras.io/zh/callbacks/#_1
 * 对于tensorboard 的调用， 可以见day4 里的三张截图， 打开步骤： 在callbacks所在的根目录下，进行cmd命令的调用，然后 输入tensorboard --logdir callbacks, 调用以后 输入（我这里）localhost:6006
+
+#### **day5** : [实现简单的深度神经网络](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day5_%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C "悬停显示")
+* 基于之前的数据集，建立最简单的深度神经网络
+* 使用for _ in range(20) 建立20层神经网络， 使用relu 和 softmax 的激活函数
