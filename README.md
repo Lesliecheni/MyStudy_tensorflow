@@ -35,3 +35,7 @@
 #### **day5** : [实现简单的深度神经网络](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day5_%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C "悬停显示")
 * 基于之前的数据集，建立最简单的深度神经网络
 * 使用for _ in range(20) 建立20层神经网络， 使用relu 和 softmax 的激活函数
+
+#### **day6** : [实站批归一化、激活函数、dropout](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_6%E5%AE%9E%E6%88%98%E6%89%B9%E5%BD%92%E4%B8%80%E5%8C%96%E3%80%81%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E3%80%81dropout "悬停显示")
+* 对之前的模型，进行数据的批归一化、激活函数的更改尝试、以及dropout的使用，dropout的使用是为了缓解过拟合现象
+
