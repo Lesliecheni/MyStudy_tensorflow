@@ -43,7 +43,7 @@
 * 引用新的数据集，也是keras.datasets里的加利福利亚的房价数据
  
 
-#### **day7** : [实现Wide&Deep模型](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_8wide%26depp_function_subclassAPI "悬停显示")
+#### **day8** : [实现Wide&Deep模型](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_8wide%26depp_function_subclassAPI "悬停显示")
 * 使用之前回归模型的房价数据
 * wide&deep   ---函数API实现
 * subclass    ---子类API实现
