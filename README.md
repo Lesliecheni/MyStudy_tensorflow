@@ -42,8 +42,8 @@
 #### **day7** : [实现回归模型](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_6%E5%AE%9E%E6%88%98%E6%89%B9%E5%BD%92%E4%B8%80%E5%8C%96%E3%80%81%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E3%80%81dropout "悬停显示")
 * 引用新的数据集，也是keras.datasets里的加利福利亚的房价数据
  
- #### **day8** : [实现Wide&Deep模型]
- (https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_8wide%26depp_function_subclassAPI "悬停显示")
+
+#### **day7** : [实现Wide&Deep模型](https://github.com/Lesliecheni/MyStudy_tensorflow/tree/master/day_8wide%26depp_function_subclassAPI "悬停显示")
 * 使用之前回归模型的房价数据
 * wide&deep   ---函数API实现
 * subclass    ---子类API实现
